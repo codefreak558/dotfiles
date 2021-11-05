@@ -16,6 +16,8 @@ This is a collection of my personal dotfiles along with the repos of the dotfile
 
 # Manual installation
 
+Make sure to use `git clone https://github.com/codefreak558/dotfiles/` to have a copy of all the files needed or go thorugh each folder going to the dev of the themes and downloading the latest ones from them
+
 1. Go through the fonts and choose which fonts you will install. Then install them with your font manager
 2. Copy Bibata folder to `/usr/share/icons`
 3. Copy Dracula Icons folder to `/usr/share/icons`
